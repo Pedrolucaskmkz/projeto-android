@@ -56,8 +56,9 @@ img{
 
 header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-    height: 150px;
+    height: 180px;
     text-align: center;
+    width: 100%;
     
 
 }
@@ -77,6 +78,7 @@ header > p{
     font-family: var(--fonte-padrao);
     font-weight: 400;
     font-size: 12px;
+    
 }
 
 nav{
